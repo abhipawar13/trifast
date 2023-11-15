@@ -1,0 +1,17 @@
+.hero-image {
+  width: 100%;
+  height: 600px;
+  background-image: url("https://trfastenings.blob.core.windows.net/sitecontent/57cf2383e3bb48fd9d6bda53e182dba7.png");
+  background-position: center;
+  object-fit: contain;
+  background-size: cover;
+}
+.hero-image-triangle {
+  width: 0;
+  height: 0;
+  border-left: 0px solid transparent;
+  border-right: 200px solid transparent;
+  border-bottom: 400px solid white;
+  margin: 0rem;
+  border: 1px solid red;
+}
