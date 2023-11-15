@@ -10,8 +10,8 @@
   width: 0;
   height: 0;
   border-left: 0px solid transparent;
-  border-right: 200px solid transparent;
-  border-bottom: 400px solid white;
+  border-right: 700px solid transparent;
+  border-bottom: 500px solid white;
   margin: 0rem;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
