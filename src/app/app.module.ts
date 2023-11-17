@@ -6,12 +6,17 @@ import { AppComponent } from './app.component';
 import { FormsModule } from '@angular/forms';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { ServicesComponent } from './components/services/services.component';
+import { ProductsComponent } from './components/products/products.component';
+import { KnowledgeBaseComponent } from './components/knowledge-base/knowledge-base.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
-    ServicesComponent
+    ServicesComponent,
+    ProductsComponent,
+    KnowledgeBaseComponent,
+    
   ],
   imports: [
     BrowserModule,
